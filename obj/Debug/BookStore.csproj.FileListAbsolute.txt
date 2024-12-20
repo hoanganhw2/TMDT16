@@ -1,0 +1,2 @@
+D:\TMDTN16\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\TMDTN16\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
